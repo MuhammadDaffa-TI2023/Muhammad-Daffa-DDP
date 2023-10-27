@@ -1,0 +1,5 @@
+print("Name\t: Muhammad Syahril Rizki Fauzan")
+print("Nim\t: 0110223110")
+print("Prodi\t: Teknik Informatika")
+print("Alamat\t: Citayam")
+print("=============================")
