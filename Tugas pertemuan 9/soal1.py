@@ -6,4 +6,6 @@ def profil(nama, alamat, gender, umur, hobi):
     print("Hobi:", hobi)
 
  #pemanggilan fungsi 
+print("===============================")
 profil("Muhammad Daffa", "Bogor", "Laki-Laki", "18", "Berenang")
+print("===============================")
