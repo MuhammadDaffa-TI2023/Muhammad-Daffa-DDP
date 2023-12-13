@@ -1,4 +1,4 @@
-from soal1 import *
+from soal import *
 
 
 
